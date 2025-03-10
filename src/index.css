@@ -1,0 +1,17 @@
+ @import "tailwindcss";
+
+:root {
+  background-color: #242424;
+  color: white;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  
+}
+
+
+a {
+  color: #e2e3ea;
+  text-decoration: inherit;
+}
